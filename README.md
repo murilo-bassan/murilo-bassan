@@ -26,6 +26,8 @@
 ## Languages and Tools:
 
 <p align="left"> 
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
     <img src="icons/bootstrap.svg" alt="Bootstrap" width="45" height="40" /> 
   </a> 
