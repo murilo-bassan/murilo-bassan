@@ -1,6 +1,5 @@
-## Olá 👋
-## Sou o Murilo Gamarra Bassan
-## Tenho a mente aberta e sede de conhecimento
+## Murilo Gamarra Bassan
+## disruptivo e sedento por conhecimento
 
 <br />📄Saiba mais sobre mim: [LinkedIn]([https://www.linkedin.com/in/murilo-bassan-3909a2261/])
 
