@@ -1,7 +1,7 @@
 ## Murilo Gamarra Bassan
 ## disruptivo e sedento por conhecimento
 
-<br />📄Saiba mais sobre mim: [LinkedIn]([https://www.linkedin.com/in/murilo-bassan-3909a2261/])
+<br />📄Saiba mais sobre mim: [https://www.linkedin.com/in/murilo-bassan-3909a2261/]
 
 <div>
   <p>
