@@ -12,7 +12,7 @@ Disruptivo e sedento por conhecimento
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=murilo-bassan&show_icons=true&locale=pt-br&layout=compact&theme=github_dark" alt="murilo-bassan" />
   </p>
   <p>
-     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilo-bassan&show_icons=true&locale=pt-br&layout=compact&theme=github_dark&card_width=400" alt="murilo-bassan" />
+     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilo-bassan&show_icons=true&locale=pt-br&layout=compact&theme=github_dark" alt="murilo-bassan" />
   </p><br />
 </div>
 <br />
