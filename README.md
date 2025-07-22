@@ -1,14 +1,18 @@
 ## Murilo Gamarra Bassan
-## disruptivo e sedento por conhecimento
+Disruptivo e sedento por conhecimento
+<br>
 
-<br />📄Saiba mais sobre mim: [https://www.linkedin.com/in/murilo-bassan-3909a2261/]
+## 🌍 Onde me encontrar:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/murilo-bassan-3909a2261/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/murilo-bassan)
 
 <div>
   <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=murilo-bassan&show_icons=true&locale=en" alt="murilo-bassan" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=murilo-bassan&show_icons=true&locale=pt-br&layout=compact&theme=github_dark" alt="murilo-bassan" />
   </p>
   <p>
-     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilo-bassan&show_icons=true&locale=en&layout=compact" alt="murilo-bassan" />
+     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilo-bassan&show_icons=true&locale=pt-br&layout=compact&theme=github_dark&card_width=400" alt="murilo-bassan" />
   </p><br />
 </div>
 <br />
@@ -18,9 +22,8 @@
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
+
+
 
 ## Languages and Tools:
 
