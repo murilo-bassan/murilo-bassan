@@ -11,12 +11,12 @@ Disruptivo e sedento por conhecimento
 
   <img
     height="180em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=murilo-bassan&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=murilo-bassan&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&locale=pt-br"
   />
 
   <img
     height="180em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=murilo-bassan&layout=compact&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-bassan&layout=compact&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&locale=pt-br"
   />
 
 </div>
