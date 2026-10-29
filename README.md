@@ -1,9 +1,7 @@
 <h1 align="center">Murilo Gamarra Bassan</h1>
-<h3 align="center">Pesquisador de IA — LangGraph · Sistemas Multiagente · Python · FastAPI</h3>
+<h3 align="center">Pesquisador de IA · LangGraph · Sistemas Multiagente · Python · FastAPI</h3>
 
 <p align="center">Campo Grande, MS, Brasil</p>
-
-<p align="center"><i>AI engineer building governed tools, durable agents, evidence-bound pipelines and measured RAG.</i></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/murilo-bassan-3909a2261/" target="_blank">
@@ -19,26 +17,26 @@
 
 ---
 
-Pesquisador de IA no LIA (UFMS), construindo sistemas multiagente com LangGraph — da extração de PDF/OCR à orquestração de agentes e entrega via FastAPI. Base sólida em full stack (Java Spring Boot, Angular).
+Pesquisador de IA no LIA (UFMS), construindo sistemas multiagente com LangGraph: da extração de PDF/OCR à orquestração de agentes e entrega via FastAPI. Base sólida em full stack (Java Spring Boot, Angular).
 
-### Portfólio de AI Engineering
+### Projetos
 
-Cinco sistemas de IA prontos para produção, cada um respondendo a uma pergunta que toda empresa encontra ao tirar IA do protótipo. Todos com README em português e inglês, testes, CI, Docker e decisões de arquitetura documentadas.
-**→ [murilo-bassan.github.io/ai-engineering-portfolio](https://murilo-bassan.github.io/ai-engineering-portfolio/)**
+Cinco projetos sobre o que é preciso para usar IA no trabalho de verdade. Todos têm testes, rodam com Docker e vêm com dados de exemplo.
+Site: **[murilo-bassan.github.io/ai-engineering-portfolio](https://murilo-bassan.github.io/ai-engineering-portfolio/)**
 
-| Projeto | O que resolve | Destaques |
-|---|---|---|
-| [**toolgate**](https://github.com/murilo-bassan/mcp-tool-gateway) | Quem pode chamar qual tool de IA, com quais dados, e como provar | Servidor MCP · permissão por tool · secrets criptografados · auditoria encadeada por hash · chat com conversas salvas |
-| [**runloop**](https://github.com/murilo-bassan/durable-agent-runtime) | Agentes que sobrevivem a quedas e pedem aprovação antes de agir | Fila no Postgres (`SKIP LOCKED`) · efeitos exatamente uma vez · orçamento de tokens · **0 duplicados após SIGKILL** |
-| [**processlens**](https://github.com/murilo-bassan/process-automation-agents) | O que automatizar num processo BPMN, com evidência | LangGraph · toda afirmação do modelo checada contra a fonte · nota por rubrica · relatórios DOCX |
-| [**priceintel**](https://github.com/murilo-bassan/hybrid-rag-price-intel) | Quanto o setor público pagou de verdade por um item | RAG híbrido (BM25 + pgvector + RRF) · LLM como juiz · Next.js · **pior erro de 968% → 14%** |
-| [**routebench**](https://github.com/murilo-bassan/llm-routing-eval-lab) | Quando um LLM vale o custo no roteamento de tools | Avaliação com IC por bootstrap · McNemar · calibração · cascatas |
+| Projeto | O que faz |
+|---|---|
+| [**toolgate**](https://github.com/murilo-bassan/mcp-tool-gateway) | Painel de controle para as ferramentas de um assistente de IA: quem pode usar cada uma, senhas criptografadas e registro de tudo. |
+| [**runloop**](https://github.com/murilo-bassan/durable-agent-runtime) | Roda agentes em tarefas longas sem perder trabalho. Se o servidor cair, continua de onde parou e nada é feito duas vezes. |
+| [**processlens**](https://github.com/murilo-bassan/process-automation-agents) | Lê um processo BPMN e sugere o que automatizar, apontando o trecho do documento que justifica cada sugestão. |
+| [**priceintel**](https://github.com/murilo-bassan/hybrid-rag-price-intel) | Responde quanto o governo pagou por um item, buscando em registros de compras e descartando itens e valores errados. |
+| [**routebench**](https://github.com/murilo-bassan/llm-routing-eval-lab) | Compara formas de escolher a ferramenta certa para um pedido e mostra quando um LLM compensa o custo. |
 
 ### Outros projetos
 
-- **LIA MDA** — pipeline de agentes (LangGraph + FastAPI) que analisa BPMN e PDFs para gerar relatórios de automação.
-- **hackathon-mda** — agente multiagente de triagem de chamados de TI, com classificação, priorização e tratamento de incidentes.
-- **Pipeline de Nota Fiscal** — extração e normalização via OCR (PyMuPDF, pytesseract), com contrato JSON consumido por uma etapa de LLM.
+- **LIA MDA**: pipeline de agentes (LangGraph + FastAPI) que analisa BPMN e PDFs para gerar relatórios de automação.
+- **hackathon-mda**: agente multiagente de triagem de chamados de TI, com classificação, priorização e tratamento de incidentes.
+- **Pipeline de Nota Fiscal**: extração e normalização via OCR (PyMuPDF, pytesseract), com contrato JSON consumido por uma etapa de LLM.
 
 ### Languages and Tools
 
